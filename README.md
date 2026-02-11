@@ -1,4 +1,6 @@
-![DIAMYACHT](./src/img/readme-round.png)
+<p align="center">
+  <img src="./src/img/readme-round.png" alt="DIAMYACHT">
+</p>
 
 ## ⚓ Diam Yacht - Premium Marine Website
 
