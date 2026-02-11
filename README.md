@@ -1,4 +1,4 @@
-![DIAMYACHT](./src/img/Untitled.png)
+![DIAMYACHT](./src/img/readme-round.png)
 
 ## ⚓ Diam Yacht - Premium Marine Website
 
